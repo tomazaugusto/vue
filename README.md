@@ -1,1 +1,1 @@
-vue
+Repositório usado para testes e estudos de VUE JS.
